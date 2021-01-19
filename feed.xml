@@ -3,12 +3,35 @@
     <title>Nika Hase</title>
     <link href="https://nikahase.github.io/test2/feed.xml" rel="self" />
     <link href="https://nikahase.github.io/test2" />
-    <updated>2021-01-19T22:17:07+01:00</updated>
+    <updated>2021-01-19T22:25:43+01:00</updated>
     <author>
         <name>NIka Hase</name>
     </author>
     <id>https://nikahase.github.io/test2</id>
 
+    <entry>
+        <title>Moje szesc palcuw</title>
+        <author>
+            <name>NIka Hase</name>
+        </author>
+        <link href="https://nikahase.github.io/test2/moje-szesc-palcuw.html"/>
+        <id>https://nikahase.github.io/test2/moje-szesc-palcuw.html</id>
+
+        <updated>2021-01-19T22:25:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                    To ja gdybym byla hase 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full" ><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/2/palcow-bez-flesza-2.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-xs.JPG 300w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-sm.JPG 480w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-md.JPG 768w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-lg.JPG 1024w"  alt="Kot bez nog" width="1650" height="2136">
+<figcaption >To ja gdybym byla hase</figcaption>
+</figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Siemka</title>
         <author>
