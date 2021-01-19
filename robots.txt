@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: #PUBLII_RELATIVE_URL_BASE#/sitemap.xml
