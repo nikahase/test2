@@ -3,45 +3,159 @@
     <title>Nika Hase</title>
     <link href="https://nikahase.github.io/test2/feed.xml" rel="self" />
     <link href="https://nikahase.github.io/test2" />
-    <updated>2021-01-19T22:25:43+01:00</updated>
+    <updated>2021-08-17T23:17:34+02:00</updated>
     <author>
-        <name>NIka Hase</name>
+        <name>Nika Hase</name>
     </author>
     <id>https://nikahase.github.io/test2</id>
 
     <entry>
-        <title>Moje szesc palcuw</title>
+        <title>galll</title>
         <author>
-            <name>NIka Hase</name>
+            <name>Nika Hase</name>
         </author>
-        <link href="https://nikahase.github.io/test2/moje-szesc-palcuw.html"/>
-        <id>https://nikahase.github.io/test2/moje-szesc-palcuw.html</id>
+        <link href="https://nikahase.github.io/test2/galll/index.html"/>
+        <id>https://nikahase.github.io/test2/galll/index.html</id>
 
-        <updated>2021-01-19T22:25:43+01:00</updated>
+        <updated>2021-08-17T23:17:34+02:00</updated>
             <summary>
                 <![CDATA[
-                    To ja gdybym byla hase 
+                    hgghhhghghgghghhgh
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full" ><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/2/palcow-bez-flesza-2.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-xs.JPG 300w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-sm.JPG 480w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-md.JPG 768w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-lg.JPG 1024w"  alt="Kot bez nog" width="1650" height="2136">
-<figcaption >To ja gdybym byla hase</figcaption>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.47.50.png" data-size="1920x1200"><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.47.50-thumbnail.png" alt="" width="768" height="480"></a>
+<figcaption>hgghh</figcaption>
 </figure>
-<p> </p>
+<figure class="gallery__item"><a href="https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.49.13.png" data-size="1920x1200"><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.49.13-thumbnail.png" alt="ghhhg" width="768" height="480"></a>
+<figcaption>hghghg</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-26-at-21.20.45.png" data-size="1600x900"><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-26-at-21.20.45-thumbnail.png" alt="" width="768" height="432"></a>
+<figcaption>ghghhgh</figcaption>
+</figure>
+</div></div>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Siemka</title>
+        <title>Contact</title>
         <author>
-            <name>NIka Hase</name>
+            <name>Nika Hase</name>
         </author>
-        <link href="https://nikahase.github.io/test2/siemka.html"/>
-        <id>https://nikahase.github.io/test2/siemka.html</id>
+        <link href="https://nikahase.github.io/test2/contact/index.html"/>
+        <id>https://nikahase.github.io/test2/contact/index.html</id>
 
-        <updated>2021-01-19T22:17:07+01:00</updated>
+        <updated>2021-08-17T23:10:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                    For enquires:Email me&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="font_4"><span class="color_32">For enquires:</span></h2>
+<p>Email me at: <a href="mailto:thenikahase@gmail.com">thenikahase@gmail.com</a></p>
+<br><br>
+<h1>Contact me</h1>
+<br><form action="https://smartforms.dev/submit/611c23897a195017922d704f" method="POST"><label for="email"> <input id="email" name="email" type="email" placeholder="Your email"> </label> <br><br><label for="message"> <textarea id="message" name="message" placeholder="Your message"></textarea> </label> <br><br><button type="submit">Send</button></form>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>&quot;Tímida Temida&quot;&quot;Timid Themis&quot;&quot;Nieśmiała Temida&quot;Guasch on paper, 21x 29,7cm</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.github.io/test2/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html"/>
+        <id>https://nikahase.github.io/test2/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html</id>
+            <category term="Guache"/>
+            <category term="Abstract"/>
+
+        <updated>2021-08-17T18:36:58+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikahase.github.io/test2/media/posts/7/timida-temida-2.JPG" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.github.io/test2/media/posts/7/timida-temida-2.JPG" alt="" />
+                <p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://nikahase.github.io/test2/media/posts/7/timida-temida-2-2.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-xs.JPG 300w ,https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-sm.JPG 480w ,https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-md.JPG 768w ,https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-lg.JPG 1024w"  alt="" width="1691" height="2438"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Griselda&quot;Guasch on paper, acrylic background, 21x 29,7cm</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.github.io/test2/griseldaguasch-on-paper-acrylic-background-21x-297cm/index.html"/>
+        <id>https://nikahase.github.io/test2/griseldaguasch-on-paper-acrylic-background-21x-297cm/index.html</id>
+            <category term="Guache"/>
+            <category term="Animal"/>
+
+        <updated>2021-08-17T18:25:17+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.github.io/test2/media/posts/6/gryzelda-zblizenie.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikahase.github.io/test2/media/posts/6/gallery/gryzelda-zblizenie.jpg" data-size="3984x1840"><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/6/gallery/gryzelda-zblizenie-thumbnail.jpg" alt="" width="768" height="355"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.github.io/test2/media/posts/6/gallery/gryzelde-ful.JPG" data-size="1668x2303"><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/6/gallery/gryzelde-ful-thumbnail.JPG" alt="" width="768" height="1060"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>&quot;Byzantine prince&quot;Guasch on paper, acrylic background, 21x 29,7cm</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.github.io/test2/byzantine-princeguasch-on-paper-acrylic-background-21x-297cm/index.html"/>
+        <id>https://nikahase.github.io/test2/byzantine-princeguasch-on-paper-acrylic-background-21x-297cm/index.html</id>
+            <category term="Guache"/>
+            <category term="Animal"/>
+
+        <updated>2021-08-17T12:11:24+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.github.io/test2/media/posts/5/ful-bizantian-prince-2.JPG" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikahase.github.io/test2/media/posts/5/gallery/ful-bizantian-prince.JPG" data-size="1642x2341"><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/5/gallery/ful-bizantian-prince-thumbnail.JPG" alt="" width="768" height="1095"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.github.io/test2/media/posts/5/gallery/paws.JPG" data-size="1767x1799"><img loading="lazy" src="https://nikahase.github.io/test2/media/posts/5/gallery/paws-thumbnail.JPG" alt="" width="768" height="782"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>&quot;Six-fingered blonde in a faux fur hat&quot;</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.github.io/test2/six-fingered-blonde-in-a-faux-fur-hat/index.html"/>
+        <id>https://nikahase.github.io/test2/six-fingered-blonde-in-a-faux-fur-hat/index.html</id>
+            <category term="Portrait"/>
+            <category term="Guache"/>
+
+        <updated>2021-08-16T21:02:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikahase.github.io/test2/media/posts/4/6fingeredblonde.JPG" alt="" />
+                    "Six-fingered blonde in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.github.io/test2/media/posts/4/6fingeredblonde.JPG" alt="" />
+                <p><span class="">"Six-fingered blonde in a faux fur hat"</span></p>
+<figure class="post__image"><span class="">Guasch on paper, acrylic background, 21x 29,7cm</span><img loading="lazy"  src="https://nikahase.github.io/test2/media/posts/4/palcow-bez-flesza-2.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-xs.JPG 300w ,https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-sm.JPG 480w ,https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-md.JPG 768w ,https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-lg.JPG 1024w"  alt="gwasz" width="959" height="1241"></figure>
+            ]]>
+        </content>
     </entry>
 </feed>

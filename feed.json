@@ -6,34 +6,102 @@
     "feed_url": "https://nikahase.github.io/test2/feed.json",
     "user_comment": "",
     "author": {
-        "name": "NIka Hase"
+        "name": "Nika Hase"
     },
     "items": [
         {
-            "id": "https://nikahase.github.io/test2/moje-szesc-palcuw.html",
-            "url": "https://nikahase.github.io/test2/moje-szesc-palcuw.html",
-            "title": "Moje szesc palcuw",
-            "summary": "To ja gdybym byla hase ",
-            "content_html": "<figure class=\"post__image post__image--full\" ><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/2/palcow-bez-flesza-2.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-xs.JPG 300w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-sm.JPG 480w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-md.JPG 768w ,https://nikahase.github.io/test2/media/posts/2/responsive/palcow-bez-flesza-2-lg.JPG 1024w\"  alt=\"Kot bez nog\" width=\"1650\" height=\"2136\">\n<figcaption >To ja gdybym byla hase</figcaption>\n</figure>\n<p> </p>",
+            "id": "https://nikahase.github.io/test2/galll/index.html",
+            "url": "https://nikahase.github.io/test2/galll/index.html",
+            "title": "galll",
+            "summary": "hgghhhghghgghghhgh",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.47.50.png\" data-size=\"1920x1200\"><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.47.50-thumbnail.png\" alt=\"\" width=\"768\" height=\"480\"></a>\n<figcaption>hgghh</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.49.13.png\" data-size=\"1920x1200\"><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-12-at-14.49.13-thumbnail.png\" alt=\"ghhhg\" width=\"768\" height=\"480\"></a>\n<figcaption>hghghg</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-26-at-21.20.45.png\" data-size=\"1600x900\"><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/10/gallery/Screenshot-2021-07-26-at-21.20.45-thumbnail.png\" alt=\"\" width=\"768\" height=\"432\"></a>\n<figcaption>ghghhgh</figcaption>\n</figure>\n</div></div>",
             "author": {
-                "name": "NIka Hase"
+                "name": "Nika Hase"
             },
             "tags": [
             ],
-            "date_published": "2021-01-19T22:25:43+01:00",
-            "date_modified": "2021-01-19T22:25:43+01:00"
+            "date_published": "2021-08-17T23:17:34+02:00",
+            "date_modified": "2021-08-17T23:17:34+02:00"
         },
         {
-            "id": "https://nikahase.github.io/test2/siemka.html",
-            "url": "https://nikahase.github.io/test2/siemka.html",
-            "title": "Siemka",
+            "id": "https://nikahase.github.io/test2/contact/index.html",
+            "url": "https://nikahase.github.io/test2/contact/index.html",
+            "title": "Contact",
+            "summary": "For enquires:Email me&hellip;",
+            "content_html": "<h2 class=\"font_4\"><span class=\"color_32\">For enquires:</span></h2>\n<p>Email me at: <a href=\"mailto:thenikahase@gmail.com\">thenikahase@gmail.com</a></p>\n<br><br>\n<h1>Contact me</h1>\n<br><form action=\"https://smartforms.dev/submit/611c23897a195017922d704f\" method=\"POST\"><label for=\"email\"> <input id=\"email\" name=\"email\" type=\"email\" placeholder=\"Your email\"> </label> <br><br><label for=\"message\"> <textarea id=\"message\" name=\"message\" placeholder=\"Your message\"></textarea> </label> <br><br><button type=\"submit\">Send</button></form>",
             "author": {
-                "name": "NIka Hase"
+                "name": "Nika Hase"
             },
             "tags": [
             ],
-            "date_published": "2021-01-19T22:17:07+01:00",
-            "date_modified": "2021-01-19T22:17:07+01:00"
+            "date_published": "2021-08-17T18:11:35+02:00",
+            "date_modified": "2021-08-17T23:10:31+02:00"
+        },
+        {
+            "id": "https://nikahase.github.io/test2/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html",
+            "url": "https://nikahase.github.io/test2/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html",
+            "title": "&quot;Tímida Temida&quot;&quot;Timid Themis&quot;&quot;Nieśmiała Temida&quot;Guasch on paper, 21x 29,7cm",
+            "summary": " ",
+            "content_html": "<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nikahase.github.io/test2/media/posts/7/timida-temida-2-2.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-xs.JPG 300w ,https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-sm.JPG 480w ,https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-md.JPG 768w ,https://nikahase.github.io/test2/media/posts/7/responsive/timida-temida-2-2-lg.JPG 1024w\"  alt=\"\" width=\"1691\" height=\"2438\"></figure>",
+            "image": "https://nikahase.github.io/test2/media/posts/7/timida-temida-2.JPG",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Guache",
+                   "Abstract"
+            ],
+            "date_published": "2021-08-17T12:15:00+02:00",
+            "date_modified": "2021-08-17T18:36:58+02:00"
+        },
+        {
+            "id": "https://nikahase.github.io/test2/griseldaguasch-on-paper-acrylic-background-21x-297cm/index.html",
+            "url": "https://nikahase.github.io/test2/griseldaguasch-on-paper-acrylic-background-21x-297cm/index.html",
+            "title": "Griselda&quot;Guasch on paper, acrylic background, 21x 29,7cm",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.github.io/test2/media/posts/6/gallery/gryzelda-zblizenie.jpg\" data-size=\"3984x1840\"><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/6/gallery/gryzelda-zblizenie-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"355\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.github.io/test2/media/posts/6/gallery/gryzelde-ful.JPG\" data-size=\"1668x2303\"><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/6/gallery/gryzelde-ful-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"1060\"></a></figure>\n</div></div>",
+            "image": "https://nikahase.github.io/test2/media/posts/6/gryzelda-zblizenie.jpg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Guache",
+                   "Animal"
+            ],
+            "date_published": "2021-08-17T12:10:04+02:00",
+            "date_modified": "2021-08-17T18:25:17+02:00"
+        },
+        {
+            "id": "https://nikahase.github.io/test2/byzantine-princeguasch-on-paper-acrylic-background-21x-297cm/index.html",
+            "url": "https://nikahase.github.io/test2/byzantine-princeguasch-on-paper-acrylic-background-21x-297cm/index.html",
+            "title": "&quot;Byzantine prince&quot;Guasch on paper, acrylic background, 21x 29,7cm",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.github.io/test2/media/posts/5/gallery/ful-bizantian-prince.JPG\" data-size=\"1642x2341\"><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/5/gallery/ful-bizantian-prince-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"1095\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.github.io/test2/media/posts/5/gallery/paws.JPG\" data-size=\"1767x1799\"><img loading=\"lazy\" src=\"https://nikahase.github.io/test2/media/posts/5/gallery/paws-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"782\"></a></figure>\n</div></div>",
+            "image": "https://nikahase.github.io/test2/media/posts/5/ful-bizantian-prince-2.JPG",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Guache",
+                   "Animal"
+            ],
+            "date_published": "2021-08-16T21:28:57+02:00",
+            "date_modified": "2021-08-17T12:11:24+02:00"
+        },
+        {
+            "id": "https://nikahase.github.io/test2/six-fingered-blonde-in-a-faux-fur-hat/index.html",
+            "url": "https://nikahase.github.io/test2/six-fingered-blonde-in-a-faux-fur-hat/index.html",
+            "title": "&quot;Six-fingered blonde in a faux fur hat&quot;",
+            "summary": "\"Six-fingered blonde in&hellip;",
+            "content_html": "<p><span class=\"\">\"Six-fingered blonde in a faux fur hat\"</span></p>\n<figure class=\"post__image\"><span class=\"\">Guasch on paper, acrylic background, 21x 29,7cm</span><img loading=\"lazy\"  src=\"https://nikahase.github.io/test2/media/posts/4/palcow-bez-flesza-2.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-xs.JPG 300w ,https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-sm.JPG 480w ,https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-md.JPG 768w ,https://nikahase.github.io/test2/media/posts/4/responsive/palcow-bez-flesza-2-lg.JPG 1024w\"  alt=\"gwasz\" width=\"959\" height=\"1241\"></figure>",
+            "image": "https://nikahase.github.io/test2/media/posts/4/6fingeredblonde.JPG",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Portrait",
+                   "Guache"
+            ],
+            "date_published": "2021-08-16T20:10:14+02:00",
+            "date_modified": "2021-08-16T21:02:28+02:00"
         }
     ]
 }
