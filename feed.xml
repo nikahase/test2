@@ -3,12 +3,85 @@
     <title>Nika Hase</title>
     <link href="https://nikahase.com/feed.xml" rel="self" />
     <link href="https://nikahase.com" />
-    <updated>2021-08-18T21:30:59+02:00</updated>
+    <updated>2021-08-20T11:24:13+02:00</updated>
     <author>
         <name>Nika Hase</name>
     </author>
     <id>https://nikahase.com</id>
 
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/about-me/index.html"/>
+        <id>https://nikahase.com/about-me/index.html</id>
+
+        <updated>2021-08-20T11:24:13+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>&quot;The Last Supper of the year&quot;&quot;Ostatnia Wieczerza roku&quot;&quot;La Última Cena del año&quot;oil on canvas, 40x50 cm.</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/the-last-supper-of-the-yearostatnia-wieczerza-rokula-ultima-cena-del-anooil-on-canvas-40x50-cm/index.html"/>
+        <id>https://nikahase.com/the-last-supper-of-the-yearostatnia-wieczerza-rokula-ultima-cena-del-anooil-on-canvas-40x50-cm/index.html</id>
+            <category term="Portrait"/>
+            <category term="Oil"/>
+
+        <updated>2021-08-19T12:27:06+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/13/ostatnia-wieczerza-roku-2.jpeg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://nikahase.com/media/posts/13/ostatnia-wieczerza-roku.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-xs.jpeg 300w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-sm.jpeg 480w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-md.jpeg 768w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-lg.jpeg 1024w"  alt="" width="1006" height="812"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>&quot;The red hole&quot;&quot;Czerwona dziura&quot;&quot;El orificio rojo&quot;Guasch na panelu malarskim, 30x40 cm.</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/the-red-holeczerwona-dziurael-orificio-rojoguasch-na-panelu-malarskim-30x40-cm/index.html"/>
+        <id>https://nikahase.com/the-red-holeczerwona-dziurael-orificio-rojoguasch-na-panelu-malarskim-30x40-cm/index.html</id>
+            <category term="Guache"/>
+            <category term="Abstract"/>
+
+        <updated>2021-08-19T12:26:09+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/12/czerwona-dziura.jpeg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://nikahase.com/media/posts/12/czerwona-dziura-2.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-xs.jpeg 300w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-sm.jpeg 480w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-md.jpeg 768w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-lg.jpeg 1024w"  alt="" width="2888" height="2166"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>&quot;The ecstasy of S. Kira&quot;oil on canvas, 30x40 cm</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/the-ecstasy-of-s-kiraoil-on-canvas-30x40-cm/index.html"/>
+        <id>https://nikahase.com/the-ecstasy-of-s-kiraoil-on-canvas-30x40-cm/index.html</id>
+            <category term="Portrait"/>
+            <category term="Oil"/>
+
+        <updated>2021-08-18T21:52:16+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/11/kkkk.jpeg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/11/gallery/zblizenie-3.JPG" data-size="3692x2584"><img loading="lazy" src="https://nikahase.com/media/posts/11/gallery/zblizenie-3-thumbnail.JPG" alt="" width="768" height="538"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/11/gallery/1609780771219.jpg" data-size="3984x1840"><img loading="lazy" src="https://nikahase.com/media/posts/11/gallery/1609780771219-thumbnail.jpg" alt="" width="768" height="355"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/11/gallery/porownanie-kira.jpg" data-size="1080x1080"><img loading="lazy" src="https://nikahase.com/media/posts/11/gallery/porownanie-kira-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contact</title>
         <author>
@@ -20,7 +93,7 @@
         <updated>2021-08-17T23:10:31+02:00</updated>
             <summary>
                 <![CDATA[
-                    For enquires:Email me&hellip;
+                    For enquires:Email me at: thenikahase@gmail.com Contact me Send
                 ]]>
             </summary>
         <content type="html">
@@ -124,7 +197,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://nikahase.com/media/posts/4/6fingeredblonde.JPG" alt="" />
-                    "Six-fingered blonde in&hellip;
+                    "Six-fingered blonde in a faux fur hat"Guasch on&hellip;
                 ]]>
             </summary>
         <content type="html">

@@ -10,10 +10,71 @@
     },
     "items": [
         {
+            "id": "https://nikahase.com/about-me/index.html",
+            "url": "https://nikahase.com/about-me/index.html",
+            "title": "About me",
+            "image": "https://nikahase.com/media/posts/14/leze-i-pachne-2.jpg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-08-19T17:22:35+02:00",
+            "date_modified": "2021-08-20T11:24:13+02:00"
+        },
+        {
+            "id": "https://nikahase.com/the-last-supper-of-the-yearostatnia-wieczerza-rokula-ultima-cena-del-anooil-on-canvas-40x50-cm/index.html",
+            "url": "https://nikahase.com/the-last-supper-of-the-yearostatnia-wieczerza-rokula-ultima-cena-del-anooil-on-canvas-40x50-cm/index.html",
+            "title": "&quot;The Last Supper of the year&quot;&quot;Ostatnia Wieczerza roku&quot;&quot;La Última Cena del año&quot;oil on canvas, 40x50 cm.",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nikahase.com/media/posts/13/ostatnia-wieczerza-roku.jpeg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-xs.jpeg 300w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-sm.jpeg 480w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-md.jpeg 768w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-lg.jpeg 1024w\"  alt=\"\" width=\"1006\" height=\"812\"></figure>",
+            "image": "https://nikahase.com/media/posts/13/ostatnia-wieczerza-roku-2.jpeg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Portrait",
+                   "Oil"
+            ],
+            "date_published": "2021-08-19T12:27:06+02:00",
+            "date_modified": "2021-08-19T12:27:06+02:00"
+        },
+        {
+            "id": "https://nikahase.com/the-red-holeczerwona-dziurael-orificio-rojoguasch-na-panelu-malarskim-30x40-cm/index.html",
+            "url": "https://nikahase.com/the-red-holeczerwona-dziurael-orificio-rojoguasch-na-panelu-malarskim-30x40-cm/index.html",
+            "title": "&quot;The red hole&quot;&quot;Czerwona dziura&quot;&quot;El orificio rojo&quot;Guasch na panelu malarskim, 30x40 cm.",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nikahase.com/media/posts/12/czerwona-dziura-2.jpeg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-xs.jpeg 300w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-sm.jpeg 480w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-md.jpeg 768w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-lg.jpeg 1024w\"  alt=\"\" width=\"2888\" height=\"2166\"></figure>",
+            "image": "https://nikahase.com/media/posts/12/czerwona-dziura.jpeg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Guache",
+                   "Abstract"
+            ],
+            "date_published": "2021-08-19T12:09:49+02:00",
+            "date_modified": "2021-08-19T12:26:09+02:00"
+        },
+        {
+            "id": "https://nikahase.com/the-ecstasy-of-s-kiraoil-on-canvas-30x40-cm/index.html",
+            "url": "https://nikahase.com/the-ecstasy-of-s-kiraoil-on-canvas-30x40-cm/index.html",
+            "title": "&quot;The ecstasy of S. Kira&quot;oil on canvas, 30x40 cm",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/11/gallery/zblizenie-3.JPG\" data-size=\"3692x2584\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/11/gallery/zblizenie-3-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"538\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/11/gallery/1609780771219.jpg\" data-size=\"3984x1840\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/11/gallery/1609780771219-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"355\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/11/gallery/porownanie-kira.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/11/gallery/porownanie-kira-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
+            "image": "https://nikahase.com/media/posts/11/kkkk.jpeg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Portrait",
+                   "Oil"
+            ],
+            "date_published": "2021-08-18T21:52:16+02:00",
+            "date_modified": "2021-08-18T21:52:16+02:00"
+        },
+        {
             "id": "https://nikahase.com/contact/index.html",
             "url": "https://nikahase.com/contact/index.html",
             "title": "Contact",
-            "summary": "For enquires:Email me&hellip;",
+            "summary": "For enquires:Email me at: thenikahase@gmail.com Contact me Send",
             "content_html": "<h2 class=\"font_4\"><span class=\"color_32\">For enquires:</span></h2>\n<p>Email me at: <a href=\"mailto:thenikahase@gmail.com\">thenikahase@gmail.com</a></p>\n<br><br>\n<h1>Contact me</h1>\n<br><form action=\"https://smartforms.dev/submit/611c23897a195017922d704f\" method=\"POST\"><label for=\"email\"> <input id=\"email\" name=\"email\" type=\"email\" placeholder=\"Your email\"> </label> <br><br><label for=\"message\"> <textarea id=\"message\" name=\"message\" placeholder=\"Your message\"></textarea> </label> <br><br><button type=\"submit\">Send</button></form>",
             "author": {
                 "name": "Nika Hase"
@@ -77,7 +138,7 @@
             "id": "https://nikahase.com/six-fingered-blonde-in-a-faux-fur-hat/index.html",
             "url": "https://nikahase.com/six-fingered-blonde-in-a-faux-fur-hat/index.html",
             "title": "&quot;Six-fingered blonde in a faux fur hat&quot;",
-            "summary": "\"Six-fingered blonde in&hellip;",
+            "summary": "\"Six-fingered blonde in a faux fur hat\"Guasch on&hellip;",
             "content_html": "<p><span class=\"\">\"Six-fingered blonde in a faux fur hat\"</span></p>\n<figure class=\"post__image\"><span class=\"\">Guasch on paper, acrylic background, 21x 29,7cm</span><img loading=\"lazy\"  src=\"https://nikahase.com/media/posts/4/palcow-bez-flesza-2.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-xs.JPG 300w ,https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-sm.JPG 480w ,https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-md.JPG 768w ,https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-lg.JPG 1024w\"  alt=\"gwasz\" width=\"959\" height=\"1241\"></figure>",
             "image": "https://nikahase.com/media/posts/4/6fingeredblonde.JPG",
             "author": {
