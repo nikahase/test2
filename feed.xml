@@ -3,23 +3,95 @@
     <title>Nika Hase</title>
     <link href="https://nikahase.com/feed.xml" rel="self" />
     <link href="https://nikahase.com" />
-    <updated>2021-08-20T11:26:03+02:00</updated>
+    <updated>2021-08-24T13:22:06+02:00</updated>
     <author>
         <name>Nika Hase</name>
     </author>
     <id>https://nikahase.com</id>
 
     <entry>
-        <title>About me</title>
+        <title>&quot;The huge blue woman&quot;&quot;Wielka niebieska baba&quot;&quot;La enorme mujer azul&quot;oil on canvas, 50 x 60 cm.</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/the-huge-blue-womanwielka-niebieska-babala-enorme-mujer-azuloil-on-canvas-50-x-60-cm/index.html"/>
+        <id>https://nikahase.com/the-huge-blue-womanwielka-niebieska-babala-enorme-mujer-azuloil-on-canvas-50-x-60-cm/index.html</id>
+            <category term="Portrait"/>
+            <category term="Oil"/>
+            <category term="Abstract"/>
+
+        <updated>2021-08-22T14:52:54+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/16/wnb.jpeg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/16/gallery/zblizenie-n-atwarz-100.jpeg" data-size="4000x4000"><img loading="lazy" src="https://nikahase.com/media/posts/16/gallery/zblizenie-n-atwarz-100-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/16/gallery/Niebieska-baba-zblizenie-rece.jpeg" data-size="4000x4000"><img loading="lazy" src="https://nikahase.com/media/posts/16/gallery/Niebieska-baba-zblizenie-rece-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/16/gallery/reka.jpeg" data-size="1080x1080"><img loading="lazy" src="https://nikahase.com/media/posts/16/gallery/reka-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/16/gallery/wnb.jpeg" data-size="3797x4597"><img loading="lazy" src="https://nikahase.com/media/posts/16/gallery/wnb-thumbnail.jpeg" alt="" width="768" height="930"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I&#x27;ve been stretching for 3 years and still can&#x27;t do the splits</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/szpagat/index.html"/>
+        <id>https://nikahase.com/szpagat/index.html</id>
+            <category term="Oil"/>
+            <category term="Abstract"/>
+
+        <updated>2021-08-24T12:13:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikahase.com/media/posts/15/DSC02681.jpeg" alt="" />
+                     "I've been stretching for 3 years and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/15/DSC02681.jpeg" alt="" />
+                <p>  <span class="" title="Edytowany">"I've been stretching for 3 years and still can't do the splits "<br><br>"Rozciągam się 3 lata i nadal nie mogę zrobić szpagatu"<br><br>"He estado estirando durante 3 años y todavía no puedo hacer el spagat "<br><br>oil on canvas, 50x70 cm.<br></span></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="true">
+<div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/15/gallery/DSC02681.jpeg" data-size="4000x4000"><img loading="lazy" src="https://nikahase.com/media/posts/15/gallery/DSC02681-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/15/gallery/szpagat-zblizenie-cien.jpeg" data-size="4000x4000"><img loading="lazy" src="https://nikahase.com/media/posts/15/gallery/szpagat-zblizenie-cien-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/15/gallery/szpagat-zblizenie-prawa.jpeg" data-size="4000x4000"><img loading="lazy" src="https://nikahase.com/media/posts/15/gallery/szpagat-zblizenie-prawa-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+</div></div>
+</div>
+<p><span class="" title="Edytowany"><br>Autobiographical study on the inability to achieve the goal, despite the effort put into it :)<br><br>Has anyone else shed sweat and tears to accomplish the impossible?<br></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I allowed myself to be a painter</title>
         <author>
             <name>Nika Hase</name>
         </author>
         <link href="https://nikahase.com/about-me/index.html"/>
         <id>https://nikahase.com/about-me/index.html</id>
 
-        <updated>2021-08-20T11:26:03+02:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2021-08-24T13:22:06+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikahase.com/media/posts/14/leze-i-pachne-2.jpg" alt="" />
+                    I allowed myself to be a painter Pozwolę&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/14/leze-i-pachne-2.jpg" alt="" />
+                <p class="p1 align-center">I allowed myself to be a painter</p>
+<p class="align-center"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Pozwolę tu zacytować Wojciecha Fangora, którego słowa zgrabnie oddają moje podejście do malarstwa</span></p>
+<p class="align-center"><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">(...) Malarstwo moje było i jest oparte na doznaniach zmysłowych, na iluzjach, na ciekawości. Reaguję na różne bodźce, lubię patrzeć z różnych punktów widzenia. Rozmaita tematyka stawia różne konieczności działania. Nie umiem rezygnować z podniet, nie mogę ich kontrolować. </span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Stąd różnorodność stylistyczna i tematyczna. Fascynuje mnie zmienność dzisiejszego czasu. Płyniemy w czasie ruchem nie jednostajnym, ale przyspieszonym. Charakter tego ruchu ujawnia zmiany rytmem o wiele bardziej częstotliwym niż było to kiedykolwiek w przeszłości. (...)</span></p>
+<p class="align-center">(...)Oczywiście przy odpowiednio silnej woli można się zmusić do przyjęcia jakiejś maniery lub schować się w cieniu ulubionego geniusza i żyć znacznie wygodniej i bezpieczniej uprawiając samoplagiat. Maniera daje w tłumie konkurentów łatwo rozpoznawalny znak firmowy, tak zwany image. Ułatwia to natychmiastową identyfikację i reklamę" (Fangor o sobie w: Fangor. 50 lat malarstwa [katalog wystawy], Galeria Zachęta, Warszawa 1990). </p>
+<p class="p2 align-center"> </p>
+<p class="p1 align-center"> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>&quot;The Last Supper of the year&quot;&quot;Ostatnia Wieczerza roku&quot;&quot;La Última Cena del año&quot;oil on canvas, 40x50 cm.</title>
@@ -90,19 +162,23 @@
         <link href="https://nikahase.com/contact/index.html"/>
         <id>https://nikahase.com/contact/index.html</id>
 
-        <updated>2021-08-17T23:10:31+02:00</updated>
+        <updated>2021-08-20T14:04:01+02:00</updated>
             <summary>
                 <![CDATA[
-                    For enquires:Email me at: thenikahase@gmail.com Contact me Send
+                    For enquires:Email me at: thenikahase@gmail.com If you like&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2 class="font_4"><span class="color_32">For enquires:</span></h2>
 <p>Email me at: <a href="mailto:thenikahase@gmail.com">thenikahase@gmail.com</a></p>
-<br><br>
+<p> </p>
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pl" data-phrase-index="0">If you like my paintings, and you want to have one, feel free to write! </span></span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">I will be more than happy to answer you!</span></p>
+<p>Jesli podobają Ci się moje obrazy i masz ochotę któryś mieć u siebie smiało pisz! Będę bardziej niż szczęśliwa by Ci odpowiedzieć!</p>
+<p> </p>
 <h1>Contact me</h1>
-<br><form action="https://smartforms.dev/submit/611c23897a195017922d704f" method="POST"><label for="email"> <input id="email" name="email" type="email" placeholder="Your email"> </label> <br><br><label for="message"> <textarea id="message" name="message" placeholder="Your message"></textarea> </label> <br><br><button type="submit">Send</button></form>
+<p> </p>
+<form action="https://smartforms.dev/submit/611c23897a195017922d704f" method="POST"><label for="email"> <input id="email" name="email" type="email" placeholder="Your email"> </label> <br><br><label for="message"> <textarea id="message" name="message" placeholder="Your message"></textarea> </label> <br><br><button type="submit">Send</button></form>
             ]]>
         </content>
     </entry>
@@ -180,31 +256,6 @@
 <figure class="gallery__item"><a href="https://nikahase.com/media/posts/5/gallery/ful-bizantian-prince.JPG" data-size="1642x2341"><img loading="lazy" src="https://nikahase.com/media/posts/5/gallery/ful-bizantian-prince-thumbnail.JPG" alt="" width="768" height="1095"></a></figure>
 <figure class="gallery__item"><a href="https://nikahase.com/media/posts/5/gallery/paws.JPG" data-size="1767x1799"><img loading="lazy" src="https://nikahase.com/media/posts/5/gallery/paws-thumbnail.JPG" alt="" width="768" height="782"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>&quot;Six-fingered blonde in a faux fur hat&quot;</title>
-        <author>
-            <name>Nika Hase</name>
-        </author>
-        <link href="https://nikahase.com/six-fingered-blonde-in-a-faux-fur-hat/index.html"/>
-        <id>https://nikahase.com/six-fingered-blonde-in-a-faux-fur-hat/index.html</id>
-            <category term="Portrait"/>
-            <category term="Guache"/>
-
-        <updated>2021-08-16T21:02:28+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nikahase.com/media/posts/4/6fingeredblonde.JPG" alt="" />
-                    "Six-fingered blonde in a faux fur hat"Guasch on&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nikahase.com/media/posts/4/6fingeredblonde.JPG" alt="" />
-                <p><span class="">"Six-fingered blonde in a faux fur hat"</span></p>
-<figure class="post__image"><span class="">Guasch on paper, acrylic background, 21x 29,7cm</span><img loading="lazy"  src="https://nikahase.com/media/posts/4/palcow-bez-flesza-2.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-xs.JPG 300w ,https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-sm.JPG 480w ,https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-md.JPG 768w ,https://nikahase.com/media/posts/4/responsive/palcow-bez-flesza-2-lg.JPG 1024w"  alt="gwasz" width="959" height="1241"></figure>
             ]]>
         </content>
     </entry>
