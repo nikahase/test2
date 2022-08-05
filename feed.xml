@@ -3,12 +3,36 @@
     <title>Nika Hase</title>
     <link href="https://nikahase.com/feed.xml" rel="self" />
     <link href="https://nikahase.com" />
-    <updated>2022-08-05T19:26:15+02:00</updated>
+    <updated>2022-08-05T20:09:58+02:00</updated>
     <author>
         <name>Nika Hase</name>
     </author>
     <id>https://nikahase.com</id>
 
+    <entry>
+        <title>S</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/s/index.html"/>
+        <id>https://nikahase.com/s/index.html</id>
+            <category term="Oil"/>
+            <category term="Abstract"/>
+
+        <updated>2022-08-05T20:09:58+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/22/dehase.jpeg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/22/gallery/stworzenie-zbliz-dehase.jpeg" data-size="2399x2399"><img loading="lazy" src="https://nikahase.com/media/posts/22/gallery/stworzenie-zbliz-dehase-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/22/gallery/Stworzenie-na-strone-atom-dehaze.jpeg" data-size="1298x1298"><img loading="lazy" src="https://nikahase.com/media/posts/22/gallery/Stworzenie-na-strone-atom-dehaze-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/22/gallery/kula-dehase.jpeg" data-size="711x711"><img loading="lazy" src="https://nikahase.com/media/posts/22/gallery/kula-dehase-thumbnail.jpeg" alt="" width="711" height="711"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/22/gallery/dehase.jpeg" data-size="3047x3891"><img loading="lazy" src="https://nikahase.com/media/posts/22/gallery/dehase-thumbnail.jpeg" alt="" width="768" height="981"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The study of Gallinaceous bird</title>
         <author>
@@ -278,35 +302,6 @@
 <p><strong>"La Última Cena del año"</strong></p>
 <p> </p>
 <p><strong>oil on canvas, 40x50 cm.</strong></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The red hole</title>
-        <author>
-            <name>Nika Hase</name>
-        </author>
-        <link href="https://nikahase.com/the-red-holeczerwona-dziurael-orificio-rojoguasch-na-panelu-malarskim-30x40-cm/index.html"/>
-        <id>https://nikahase.com/the-red-holeczerwona-dziurael-orificio-rojoguasch-na-panelu-malarskim-30x40-cm/index.html</id>
-            <category term="Guache"/>
-            <category term="Abstract"/>
-
-        <updated>2021-09-16T11:58:01+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nikahase.com/media/posts/12/czerwona-dziura.jpeg" alt="" />
-                    "The red hole" "Czerwona dziura" "El orificio rojo"&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nikahase.com/media/posts/12/czerwona-dziura.jpeg" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://nikahase.com/media/posts/12/czerwona-dziura-2.jpeg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-xs.jpeg 300w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-sm.jpeg 480w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-md.jpeg 768w ,https://nikahase.com/media/posts/12/responsive/czerwona-dziura-2-lg.jpeg 1024w"  alt="" width="2888" height="2166"></figure>
-<p><strong>"The red hole"</strong></p>
-<p><strong>"Czerwona dziura"</strong></p>
-<p><strong>"El orificio rojo"</strong></p>
-<p> </p>
-<p><strong>Guache on a panel, 30x40 cm.</strong></p>
             ]]>
         </content>
     </entry>
