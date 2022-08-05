@@ -3,12 +3,41 @@
     <title>Nika Hase</title>
     <link href="https://nikahase.com/feed.xml" rel="self" />
     <link href="https://nikahase.com" />
-    <updated>2022-08-05T19:03:12+02:00</updated>
+    <updated>2022-08-05T19:14:51+02:00</updated>
     <author>
         <name>Nika Hase</name>
     </author>
     <id>https://nikahase.com</id>
 
+    <entry>
+        <title>Postcard from the trip</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/postcard-from-the-trip/index.html"/>
+        <id>https://nikahase.com/postcard-from-the-trip/index.html</id>
+            <category term="Oil"/>
+            <category term="Abstract"/>
+
+        <updated>2022-08-05T19:14:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikahase.com/media/posts/20/kartka-z-podrozy.jpeg" alt="" />
+                    "Kartka z podróży" "Postcard from the trip" "Tarjeta&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/20/kartka-z-podrozy.jpeg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/20/gallery/DSC06050.jpeg" data-size="4046x3035"><img loading="lazy" src="https://nikahase.com/media/posts/20/gallery/DSC06050-thumbnail.jpeg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/20/gallery/kartka-z-podrozy.jpeg" data-size="2871x2045"><img loading="lazy" src="https://nikahase.com/media/posts/20/gallery/kartka-z-podrozy-thumbnail.jpeg" alt="" width="768" height="547"></a></figure>
+</div></div>
+<p><span class="_aacl _aaco _aacu _aacx _aad7 _aade"><strong>"Kartka z podróży"</strong><br><br><strong>"Postcard from the trip"</strong><br><br><strong>"Tarjeta de recuerdo de viaje"</strong></span></p>
+<p><span class="_aacl _aaco _aacu _aacx _aad7 _aade"><br><br><strong>32,5 x 45 cm mixed media on paper</strong><br></span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Self-portrait with an unidentified object</title>
         <author>
@@ -308,34 +337,6 @@
 </div>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Contact</title>
-        <author>
-            <name>Nika Hase</name>
-        </author>
-        <link href="https://nikahase.com/contact/index.html"/>
-        <id>https://nikahase.com/contact/index.html</id>
-
-        <updated>2021-08-20T14:04:01+02:00</updated>
-            <summary>
-                <![CDATA[
-                    For enquires:Email me at: thenikahase@gmail.com If you like&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h2 class="font_4"><span class="color_32">For enquires:</span></h2>
-<p>Email me at: <a href="mailto:thenikahase@gmail.com">thenikahase@gmail.com</a></p>
-<p> </p>
-<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pl" data-phrase-index="0">If you like my paintings, and you want to have one, feel free to write! </span></span><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">I will be more than happy to answer you!</span></p>
-<p>Jesli podobają Ci się moje obrazy i masz ochotę któryś mieć u siebie smiało pisz! Będę bardziej niż szczęśliwa by Ci odpowiedzieć!</p>
-<p> </p>
-<h1>Contact me</h1>
-<p> </p>
-<form action="https://smartforms.dev/submit/611c23897a195017922d704f" method="POST"><label for="email"> <input id="email" name="email" type="email" placeholder="Your email"> </label> <br><br><label for="message"> <textarea id="message" name="message" placeholder="Your message"></textarea> </label> <br><br><button type="submit">Send</button></form>
             ]]>
         </content>
     </entry>
