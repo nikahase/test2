@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://nikahase.com/self-portrait-with-an-unidentified-object/index.html",
+            "url": "https://nikahase.com/self-portrait-with-an-unidentified-object/index.html",
+            "title": "Self-portrait with an unidentified object",
+            "summary": "\"Self-portrait with an unidentified object\" \"Autoportret z niezidentyfikowanym&hellip;",
+            "content_html": "<div class=\"_ab8w  _ab94 _ab99 _ab9f _ab9m _ab9p  _abbh _abcm\">\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/19/gallery/1640080057852.jpeg\" data-size=\"1437x1437\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/19/gallery/1640080057852-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/19/gallery/zblizenie-najblizsza.jpeg\" data-size=\"874x874\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/19/gallery/zblizenie-najblizsza-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/19/gallery/autoportret.jpeg\" data-size=\"1300x1786\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/19/gallery/autoportret-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"1055\"></a></figure>\n</div></div>\n</div>\n<div class=\"_a9zs\"><strong><span class=\"_aacl _aaco _aacu _aacx _aad7 _aade\">\"Self-portrait with an unidentified object\"<br><br>\"Autoportret z niezidentyfikowanym obiektem\"<br><br>\"Autorretrato con un objeto no identificado\"</span></strong></div>\n<div class=\"_a9zs\"><strong><span class=\"_aacl _aaco _aacu _aacx _aad7 _aade\"><br><br>oli on canvas, 30 x 40 cm</span></strong></div>",
+            "image": "https://nikahase.com/media/posts/19/autoportret.jpeg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Portrait",
+                   "Oil"
+            ],
+            "date_published": "2022-08-05T18:38:20+02:00",
+            "date_modified": "2022-08-05T18:43:59+02:00"
+        },
+        {
             "id": "https://nikahase.com/spock-niszczyciel-dobrej-zabawy-i-pogromca-usmiechow-dzieci/index.html",
             "url": "https://nikahase.com/spock-niszczyciel-dobrej-zabawy-i-pogromca-usmiechow-dzieci/index.html",
             "title": "Spock - niszczyciel dobrej zabawy i pogromca uśmiechów dzieci",
@@ -24,7 +41,7 @@
                    "Oil"
             ],
             "date_published": "2021-10-11T19:31:34+02:00",
-            "date_modified": "2021-10-11T19:49:39+02:00"
+            "date_modified": "2022-08-05T18:38:53+02:00"
         },
         {
             "id": "https://nikahase.com/fine-artss/index.html",
@@ -156,23 +173,6 @@
             ],
             "date_published": "2021-08-17T18:11:35+02:00",
             "date_modified": "2021-08-20T14:04:01+02:00"
-        },
-        {
-            "id": "https://nikahase.com/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html",
-            "url": "https://nikahase.com/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html",
-            "title": "Tímida Temida",
-            "summary": " \"Tímida Temida\" \"Timid Themis\" \"Nieśmiała Temida\" Guasch&hellip;",
-            "content_html": "<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nikahase.com/media/posts/7/timida-temida-2-2.JPG\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-xs.JPG 300w ,https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-sm.JPG 480w ,https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-md.JPG 768w ,https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-lg.JPG 1024w\"  alt=\"\" width=\"1691\" height=\"2438\"></figure>\n<p><strong>\"Tímida Temida\"</strong></p>\n<p><strong>\"Timid Themis\"</strong></p>\n<p><strong>\"Nieśmiała Temida\"</strong></p>\n<p> </p>\n<p><strong>Guasch on paper, 21x 29,7cm</strong></p>",
-            "image": "https://nikahase.com/media/posts/7/timida-temida-2.JPG",
-            "author": {
-                "name": "Nika Hase"
-            },
-            "tags": [
-                   "Guache",
-                   "Abstract"
-            ],
-            "date_published": "2021-08-17T12:15:00+02:00",
-            "date_modified": "2021-09-16T11:57:50+02:00"
         }
     ]
 }

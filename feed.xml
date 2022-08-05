@@ -3,12 +3,44 @@
     <title>Nika Hase</title>
     <link href="https://nikahase.com/feed.xml" rel="self" />
     <link href="https://nikahase.com" />
-    <updated>2021-10-11T19:49:39+02:00</updated>
+    <updated>2022-08-05T18:43:59+02:00</updated>
     <author>
         <name>Nika Hase</name>
     </author>
     <id>https://nikahase.com</id>
 
+    <entry>
+        <title>Self-portrait with an unidentified object</title>
+        <author>
+            <name>Nika Hase</name>
+        </author>
+        <link href="https://nikahase.com/self-portrait-with-an-unidentified-object/index.html"/>
+        <id>https://nikahase.com/self-portrait-with-an-unidentified-object/index.html</id>
+            <category term="Portrait"/>
+            <category term="Oil"/>
+
+        <updated>2022-08-05T18:43:59+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://nikahase.com/media/posts/19/autoportret.jpeg" alt="" />
+                    "Self-portrait with an unidentified object" "Autoportret z niezidentyfikowanym&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://nikahase.com/media/posts/19/autoportret.jpeg" alt="" />
+                <div class="_ab8w  _ab94 _ab99 _ab9f _ab9m _ab9p  _abbh _abcm">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/19/gallery/1640080057852.jpeg" data-size="1437x1437"><img loading="lazy" src="https://nikahase.com/media/posts/19/gallery/1640080057852-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/19/gallery/zblizenie-najblizsza.jpeg" data-size="874x874"><img loading="lazy" src="https://nikahase.com/media/posts/19/gallery/zblizenie-najblizsza-thumbnail.jpeg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://nikahase.com/media/posts/19/gallery/autoportret.jpeg" data-size="1300x1786"><img loading="lazy" src="https://nikahase.com/media/posts/19/gallery/autoportret-thumbnail.jpeg" alt="" width="768" height="1055"></a></figure>
+</div></div>
+</div>
+<div class="_a9zs"><strong><span class="_aacl _aaco _aacu _aacx _aad7 _aade">"Self-portrait with an unidentified object"<br><br>"Autoportret z niezidentyfikowanym obiektem"<br><br>"Autorretrato con un objeto no identificado"</span></strong></div>
+<div class="_a9zs"><strong><span class="_aacl _aaco _aacu _aacx _aad7 _aade"><br><br>oli on canvas, 30 x 40 cm</span></strong></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Spock - niszczyciel dobrej zabawy i pogromca uśmiechów dzieci</title>
         <author>
@@ -19,7 +51,7 @@
             <category term="Portrait"/>
             <category term="Oil"/>
 
-        <updated>2021-10-11T19:49:39+02:00</updated>
+        <updated>2022-08-05T18:38:53+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://nikahase.com/media/posts/18/spock-na-strone.jpeg" alt="" />
@@ -304,37 +336,6 @@
 <h1>Contact me</h1>
 <p> </p>
 <form action="https://smartforms.dev/submit/611c23897a195017922d704f" method="POST"><label for="email"> <input id="email" name="email" type="email" placeholder="Your email"> </label> <br><br><label for="message"> <textarea id="message" name="message" placeholder="Your message"></textarea> </label> <br><br><button type="submit">Send</button></form>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tímida Temida</title>
-        <author>
-            <name>Nika Hase</name>
-        </author>
-        <link href="https://nikahase.com/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html"/>
-        <id>https://nikahase.com/timida-temidatimid-themisniesmiala-temidaguasch-on-paper-21x-297cm/index.html</id>
-            <category term="Guache"/>
-            <category term="Abstract"/>
-
-        <updated>2021-09-16T11:57:50+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://nikahase.com/media/posts/7/timida-temida-2.JPG" alt="" />
-                     "Tímida Temida" "Timid Themis" "Nieśmiała Temida" Guasch&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://nikahase.com/media/posts/7/timida-temida-2.JPG" alt="" />
-                <p> </p>
-<p> </p>
-<figure class="post__image"><img loading="lazy"  src="https://nikahase.com/media/posts/7/timida-temida-2-2.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-xs.JPG 300w ,https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-sm.JPG 480w ,https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-md.JPG 768w ,https://nikahase.com/media/posts/7/responsive/timida-temida-2-2-lg.JPG 1024w"  alt="" width="1691" height="2438"></figure>
-<p><strong>"Tímida Temida"</strong></p>
-<p><strong>"Timid Themis"</strong></p>
-<p><strong>"Nieśmiała Temida"</strong></p>
-<p> </p>
-<p><strong>Guasch on paper, 21x 29,7cm</strong></p>
             ]]>
         </content>
     </entry>
