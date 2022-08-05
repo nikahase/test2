@@ -12,8 +12,9 @@
         {
             "id": "https://nikahase.com/s/index.html",
             "url": "https://nikahase.com/s/index.html",
-            "title": "S",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/stworzenie-zbliz-dehase.jpeg\" data-size=\"2399x2399\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/stworzenie-zbliz-dehase-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/Stworzenie-na-strone-atom-dehaze.jpeg\" data-size=\"1298x1298\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/Stworzenie-na-strone-atom-dehaze-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/kula-dehase.jpeg\" data-size=\"711x711\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/kula-dehase-thumbnail.jpeg\" alt=\"\" width=\"711\" height=\"711\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/dehase.jpeg\" data-size=\"3047x3891\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/dehase-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"981\"></a></figure>\n</div></div>",
+            "title": "Creation of the universe",
+            "summary": "\"Creation of the universe\" \"La creación del universo\"&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/stworzenie-zbliz-dehase.jpeg\" data-size=\"2399x2399\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/stworzenie-zbliz-dehase-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/Stworzenie-na-strone-atom-dehaze.jpeg\" data-size=\"1298x1298\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/Stworzenie-na-strone-atom-dehaze-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/kula-dehase.jpeg\" data-size=\"711x711\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/kula-dehase-thumbnail.jpeg\" alt=\"\" width=\"711\" height=\"711\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/22/gallery/dehase.jpeg\" data-size=\"3047x3891\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/22/gallery/dehase-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"981\"></a></figure>\n</div></div>\n<p><strong><span class=\"VIiyi\" lang=\"en\"><span class=\"JLqJ4b ChMk0b\" data-language-for-alternatives=\"en\" data-language-to-translate-into=\"pl\" data-phrase-index=\"0\" data-number-of-phrases=\"1\"><span class=\"Q4iAWc\">\"Creation of the universe\"</span></span></span></strong></p>\n<p><strong><span class=\"hiddenSpellError\">\"La creación</span> del <span class=\"hiddenSpellError\">universo\"</span></strong><br><br><strong>\"Stworzenie wszechświata\"</strong></p>\n<p> </p>\n<p><span class=\"\" title=\"Edited\"><strong>oil on canvas, 60x50 cm</strong></span></p>\n<p> </p>",
             "image": "https://nikahase.com/media/posts/22/dehase.jpeg",
             "author": {
                 "name": "Nika Hase"
@@ -23,7 +24,7 @@
                    "Abstract"
             ],
             "date_published": "2022-08-05T20:01:47+02:00",
-            "date_modified": "2022-08-05T20:09:58+02:00"
+            "date_modified": "2022-08-05T22:31:56+02:00"
         },
         {
             "id": "https://nikahase.com/the-study-of-gallinaceous-bird/index.html",
