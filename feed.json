@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://nikahase.com/the-study-of-gallinaceous-bird/index.html",
+            "url": "https://nikahase.com/the-study-of-gallinaceous-bird/index.html",
+            "title": "The study of Gallinaceous bird",
+            "summary": "\"Studium Kuraka\" \"The study of Gallinaceous bird\" \"El&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/21/gallery/kurak-publi.jpeg\" data-size=\"4985x3472\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/21/gallery/kurak-publi-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"535\"></a></figure>\n</div></div>\n<p><span class=\"_aacl _aaco _aacu _aacx _aad7 _aade\"><strong>\"Studium Kuraka\"</strong><br><br><strong>\"The study of Gallinaceous bird\"</strong><br><br><strong>\"El estudio del Galliforme\"</strong><br><br><strong> </strong><br><br><strong>Oil on panel, 30 x 21 cm</strong><br></span></p>",
+            "image": "https://nikahase.com/media/posts/21/kurak-publi.jpeg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Oil",
+                   "Animal",
+                   "Abstract"
+            ],
+            "date_published": "2022-08-05T19:25:44+02:00",
+            "date_modified": "2022-08-05T19:26:15+02:00"
+        },
+        {
             "id": "https://nikahase.com/postcard-from-the-trip/index.html",
             "url": "https://nikahase.com/postcard-from-the-trip/index.html",
             "title": "Postcard from the trip",
@@ -41,7 +59,7 @@
                    "Oil"
             ],
             "date_published": "2022-08-05T18:38:20+02:00",
-            "date_modified": "2022-08-05T19:03:12+02:00"
+            "date_modified": "2022-08-05T19:22:29+02:00"
         },
         {
             "id": "https://nikahase.com/spock-niszczyciel-dobrej-zabawy-i-pogromca-usmiechow-dzieci/index.html",
@@ -159,23 +177,6 @@
             ],
             "date_published": "2021-08-19T12:09:49+02:00",
             "date_modified": "2021-09-16T11:58:01+02:00"
-        },
-        {
-            "id": "https://nikahase.com/the-ecstasy-of-s-kiraoil-on-canvas-30x40-cm/index.html",
-            "url": "https://nikahase.com/the-ecstasy-of-s-kiraoil-on-canvas-30x40-cm/index.html",
-            "title": "The ecstasy of S. Kira",
-            "summary": " CloseupDetailMy process \"The ecstasy of S. Kira\"&hellip;",
-            "content_html": "<h6><span class=\"\" title=\"Edited\"> </span></h6>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"true\"> </div></div>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/11/gallery/zblizenie-3.JPG\" data-size=\"3692x2584\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/11/gallery/zblizenie-3-thumbnail.JPG\" alt=\"\" width=\"768\" height=\"538\"></a>\n<figcaption>Closeup</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/11/gallery/1609780771219.jpg\" data-size=\"3984x1840\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/11/gallery/1609780771219-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"355\"></a>\n<figcaption>Detail</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/11/gallery/porownanie-kira.jpg\" data-size=\"1080x1080\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/11/gallery/porownanie-kira-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a>\n<figcaption>My process</figcaption>\n</figure>\n</div></div>\n<div class=\"ZyFrc\" tabindex=\"0\" role=\"button\">\n<div class=\"kPFhm Y8U6w  Uvt28\">\n<div tabindex=\"-1\" role=\"button\"> </div>\n<div tabindex=\"-1\" role=\"button\"> </div>\n</div>\n</div>\n<div class=\"EtaWk\">\n<div class=\"ZyFrc\" tabindex=\"0\" role=\"button\">\n<div class=\"P9YgZ\">\n<div class=\"C7I1f X7jCj\">\n<div class=\"C4VMK\"><strong><span class=\"\" title=\"Edited\">\"The ecstasy of S. Kira\" </span></strong></div>\n<div class=\"C4VMK\"><strong><span class=\"\" title=\"Edited\">oil on canvas, 30x40 cm</span></strong></div>\n<div> </div>\n<div class=\"C4VMK\"><span class=\"\" title=\"Edited\">Is a portrait of my beautiful cousin. I was inspired by masters of inspired by late Medieval ages and early Renaissance. I used a dead colours to my underpainting and slowly build up layers of a life to the model. You can see how the life is slowly getting in. This effect is surprising me as well.</span></div>\n<div> </div>\n<div> </div>\n<div><span class=\"\" title=\"Edited\">“His own image; no longer a dark, gray bird, ugly and disagreeable to look at, but a graceful and beautiful swan. To be born in a duck's nest, in a farmyard, is of no consequence to a bird, if it is hatched from a swan's egg.”<br><br>Hans Christian Andersen, The Ugly Duckling</span></div>\n<div class=\"C4VMK\"> </div>\n</div>\n</div>\n</div>\n</div>",
-            "image": "https://nikahase.com/media/posts/11/kkkk.jpeg",
-            "author": {
-                "name": "Nika Hase"
-            },
-            "tags": [
-                   "Portrait",
-                   "Oil"
-            ],
-            "date_published": "2021-08-18T21:52:16+02:00",
-            "date_modified": "2021-09-16T11:52:32+02:00"
         }
     ]
 }
