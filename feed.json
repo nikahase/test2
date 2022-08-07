@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://nikahase.com/horses-are-not-suitable-for-a-war/index.html",
+            "url": "https://nikahase.com/horses-are-not-suitable-for-a-war/index.html",
+            "title": "Horses are not suitable for a war",
+            "summary": "\"Horses are not suitable for a war \" \"Konie&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/23/gallery/konie2.jpeg\" data-size=\"5000x3314\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/23/gallery/konie2-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"509\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/23/gallery/konie2-copy-zielony-1.jpeg\" data-size=\"5000x3333\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/23/gallery/konie2-copy-zielony-1-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/23/gallery/konie2-copy-niebiesko-1.jpeg\" data-size=\"5000x3332\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/23/gallery/konie2-copy-niebiesko-1-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://nikahase.com/media/posts/23/gallery/konie2-copy-zbl-11.jpeg\" data-size=\"5000x3332\"><img loading=\"lazy\" src=\"https://nikahase.com/media/posts/23/gallery/konie2-copy-zbl-11-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<p><strong><span class=\"_aacl _aaco _aacu _aacx _aad7 _aade\">\"Horses are not suitable for a war \"<br><br>\"Konie nie nadają się na wojnę \"<br><br>\"Los caballos no son aptos para la guerra \"</span></strong></p>\n<p><span class=\"_aacl _aaco _aacu _aacx _aad7 _aade\"><br><br><strong>oil on canvas, 40 x 60 cm.</strong><br></span></p>",
+            "image": "https://nikahase.com/media/posts/23/konie2.jpeg",
+            "author": {
+                "name": "Nika Hase"
+            },
+            "tags": [
+                   "Oil",
+                   "Animal"
+            ],
+            "date_published": "2022-08-07T15:00:11+02:00",
+            "date_modified": "2022-08-07T15:00:11+02:00"
+        },
+        {
             "id": "https://nikahase.com/s/index.html",
             "url": "https://nikahase.com/s/index.html",
             "title": "Creation of the Universe",
@@ -160,23 +177,6 @@
             ],
             "date_published": "2021-08-19T17:22:35+02:00",
             "date_modified": "2022-08-06T17:56:17+02:00"
-        },
-        {
-            "id": "https://nikahase.com/the-last-supper-of-the-yearostatnia-wieczerza-rokula-ultima-cena-del-anooil-on-canvas-40x50-cm/index.html",
-            "url": "https://nikahase.com/the-last-supper-of-the-yearostatnia-wieczerza-rokula-ultima-cena-del-anooil-on-canvas-40x50-cm/index.html",
-            "title": "The Last Supper of the year",
-            "summary": " \"The Last Supper of the year\" \"Ostatnia&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://nikahase.com/media/posts/13/ostatnia-wieczerza-roku.jpeg\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-xs.jpeg 300w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-sm.jpeg 480w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-md.jpeg 768w ,https://nikahase.com/media/posts/13/responsive/ostatnia-wieczerza-roku-lg.jpeg 1024w\"  alt=\"\" width=\"1006\" height=\"812\"></figure>\n<p> </p>\n<p><strong>\"The Last Supper of the year\"</strong></p>\n<p><strong>\"Ostatnia Wieczerza roku\"</strong></p>\n<p><strong>\"La Última Cena del año\"</strong></p>\n<p> </p>\n<p><strong>oil on canvas, 40x50 cm.</strong></p>",
-            "image": "https://nikahase.com/media/posts/13/ostatnia-wieczerza-roku-2.jpeg",
-            "author": {
-                "name": "Nika Hase"
-            },
-            "tags": [
-                   "Portrait",
-                   "Oil"
-            ],
-            "date_published": "2021-08-19T12:27:06+02:00",
-            "date_modified": "2021-09-16T11:53:46+02:00"
         }
     ]
 }
